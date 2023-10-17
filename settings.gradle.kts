@@ -14,6 +14,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Applifecycle-gradle7.4.2"
-include(":app")
 include(":applifecycle-plugin")
  
